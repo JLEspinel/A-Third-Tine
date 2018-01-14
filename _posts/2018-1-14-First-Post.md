@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-I propose a toast to Lucas Szwarcberg, Dan Brickell, and [Scott Alexander](slatestarcodex.com) for inspring this site. Men undoubtedly cut from the same cloth.
+I propose a toast to Lucas Szwarcberg, Dan Brickell, and [Scott Alexander](www.slatestarcodex.com) for inspring this site. Men undoubtedly cut from the same cloth.
 
 It took a month of living with Lucas and Dan in Tel Aviv and listening to them ascerbicly prodding each other with dry, hyper-rational wit to make me assume two stances (I'm hesistant to call them "truths" for fear of contributing to part of the problem): 
 
