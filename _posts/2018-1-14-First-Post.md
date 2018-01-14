@@ -1,6 +1,11 @@
 ---
 published: true
 ---
+---
+layout: post
+title: First Post
+---
+
 
 I propose a toast to Lucas Szwarcberg, Dan Brickell, and [Scott Alexander](slatestarcodex.com) for inspring this site. Men undoubtedly cut from the same cloth.
 
