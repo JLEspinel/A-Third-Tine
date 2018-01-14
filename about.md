@@ -2,14 +2,16 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
+Welcome to A Third Tine, a small blog run by Jose Espinel, with occasional contributions by friends and guest authors.
 
-Some information about you!
+Main areas of focus include business, science, and philosophy, but there may be the occasional unrelated post about movies, travel, or some other surprise that you might unexpectedly enjoy.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Jose Espinel studies Economics and Astrophyics in Boston. He tries to be candid about most things.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[jl.espinel@att.net](mailto:jl.espinel@att.net)
