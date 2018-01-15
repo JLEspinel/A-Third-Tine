@@ -5,7 +5,8 @@ This post is dedicated to all you lucid dreamers.
 
 It's the covergent evolution of three recent encounters with one question: what are the computational limits of the human brain?
 
-Encounter 1 (~ 1 week ago): I first started thinking about this while reading an entirely unrelated essay from Rationality: AI to Zombies. In Book 2, Yudkowski makes the following statement:
+## Encounter 1:
+I first started thinking about this while reading an entirely unrelated essay from Rationality: AI to Zombies. In Book 2, Yudkowski makes the following statement:
 
 > Unsurprisingly, the human brain doesn’t do 64-bit floating-point arithmetic, and it can’t devalue the emotional force of a pleasant anticipation by a factor of 0.00000001 without dropping the line of reasoning entirely.
 
@@ -15,7 +16,8 @@ And how fast can it do it (__it__ being some sort of basic, singular mental comp
 
 An interesting thought, but other things came up that day and I let it go.
 
-Encounter 2 (~ 3 days ago): These two questions were narrowed down a few days later. I was talking about lucid dreaming with a friend (Lucas Rosen). More specifically, we were talking about the brain's remarkable ability to conjure up entire personalities and landscapes seemingly on command while we dream. 
+## Encounter 2:
+These two questions were narrowed down a few days later. I was talking about lucid dreaming with a friend (Lucas Rosen). More specifically, we were talking about the brain's remarkable ability to conjure up entire personalities and landscapes seemingly on command while we dream. 
 
 Remembering the thought I had while reading Yudkowski, I stopping the marveling and sketched out the following scenario for Lucas:
 
@@ -31,7 +33,7 @@ If you started moving forward, ever accelerating, would you ever reach a point w
 
 We were intrigued.
 
-Encounter 3 (~ 2 days ago): 
+## Encounter 3:
 
 Before I even had the chance to read into anything on the brain's computational limits I ran into the topic one final time, this time in an SSC post on DMT entities:
 
@@ -62,4 +64,4 @@ So the mind is less like a Turing machine... and more like a modern computer. It
 A brief aside on the representational theory of mind: There's so much more to say about exacltly __how__ the brain processes data, but the one theory I run with in this post is the representational theory of mind.
 
 So, we've found two hard limits to concentrate on if we want to find where your lucid dream could "break":
-	1. 
+	1.
