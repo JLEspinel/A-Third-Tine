@@ -25,3 +25,16 @@ Enter SSC.
 I saw the 2017 calibration results and I was immediately hooked on the idea of trying my hand at the same exercise.
 
 What follows is a list of predictions for prominent outcomes in 2018 at varying degrees of certainty:
+
+
+
+
+
+
+
+
+
+We'll check back on these in 2019.
+
+
+
