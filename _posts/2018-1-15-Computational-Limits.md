@@ -39,7 +39,7 @@ Before I even had the chance to read into anything on the brain's computational 
 
 > “Universal love,” said the cactus person.
 “Transcendent joy,” said the big green bat.
-“Right,” I said. “I’m absolutely in favor of both those things. But before we go any further, could you tell me the two prime factors of 1,522,605,027, 922,533,360, 535,618,378, 132,637,429, 718,068,114, 961,380,688, 657,908,494 ,580,122,963, 258,952,897, 654,000,350, 692,006,139?
+“Right,” I said. “I’m absolutely in favor of both those things. But before we go any further, could you tell me the two prime factors of 1,522,605,027, 922,533,360, 535,618,378, 132,637,429, 718,068,114, 961,380,688, 657,908,494, 580,122,963, 258,952,897, 654,000,350, 692,006,139?
 
 Check out the SSC post for context. What matters for this post is that it riled me up again. What __could__ we factor in a dream?
 
