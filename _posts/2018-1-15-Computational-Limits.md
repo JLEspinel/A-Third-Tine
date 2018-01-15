@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 This post is dedicated to all you lucid dreamers.
 
