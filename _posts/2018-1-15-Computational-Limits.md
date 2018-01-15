@@ -7,7 +7,7 @@ It's the covergent evolution of three recent encounters with one question: what 
 
 ## Encounter 1:
 
-I first started thinking about this while reading an entirely unrelated essay from Rationality: AI to Zombies. In Book 2, Yudkowski makes the following statement:
+I first started thinking about this while reading an entirely unrelated essay from [Rationality: AI to Zombies](https://www.readthesequences.com/). In Book 2, Yudkowski makes the following statement:
 
 > Unsurprisingly, the human brain doesn’t do 64-bit floating-point arithmetic, and it can’t devalue the emotional force of a pleasant anticipation by a factor of 0.00000001 without dropping the line of reasoning entirely.
 
