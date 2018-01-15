@@ -11,9 +11,9 @@ I first started thinking about this while reading an entirely unrelated essay fr
 
 > Unsurprisingly, the human brain doesn’t do 64-bit floating-point arithmetic, and it can’t devalue the emotional force of a pleasant anticipation by a factor of 0.00000001 without dropping the line of reasoning entirely.
 
-When read in context, it's found in a section that really has nothing to do with computational limits (it's an esssay on lotteries, of all things). But my mind started to wander, and it stuck with me. If the brain doesn't do "64-bit floating point arithmetic"... then what __can__ it do?
+When read in context, it's found in a section that really has nothing to do with computational limits (it's an esssay on lotteries, of all things). But my mind started to wander, and it stuck with me. If the brain doesn't do "64-bit floating point arithmetic"... then what _can_ it do?
 
-And how fast can it do it (__it__ being some sort of basic, singular mental computation)?
+And how fast can it do it (_it_ being some sort of basic, singular mental computation)?
 
 An interesting thought, but other things came up that day and I let it go.
 
@@ -43,7 +43,7 @@ Before I even had the chance to read into anything on the brain's computational 
 “Transcendent joy,” said the big green bat.
 “Right,” I said. “I’m absolutely in favor of both those things. But before we go any further, could you tell me the two prime factors of 1,522,605,027, 922,533,360, 535,618,378, 132,637,429, 718,068,114, 961,380,688, 657,908,494, 580,122,963, 258,952,897, 654,000,350, 692,006,139?
 
-Check out the SSC post for context. What matters for this post is that it riled me up again. What __could__ we factor in a dream?
+Check out the SSC post for context. What matters for this post is that it riled me up again. What _could_ we factor in a dream?
 
 So, at the end of the week I was left with this burining, unanswered question about how complex our dreams can get. At that point I set about trying to amass enough literature on the subject that I might get a general idea of whether those limits exist, and if they do where the qualitative/quantitative boundaries lie. One strategy for making sense of the unknown is to relate it to a well-understood analogue. In the case of the brain, we can, as many have, relate it to a Turing machine (the stance known as the "classical computational theory of mind"). But this comparison has several shortcomings. Stanford's Encyclopedia of Philosophy lays them out rather clearly:
 
@@ -59,7 +59,7 @@ So, at the end of the week I was left with this burining, unanswered question ab
 
 So the mind is less like a Turing machine... and more like a modern computer. It has finite memory (read: limit #1, and that memory includes some RAM- or VRAM-esque component, we'll get to that division soon) and computations are executed in a nonzero amount of time (read: limit #2). There's simple physiological proof supporting that second limiation
 
-A brief aside on the representational theory of mind: There's so much more to say about exacltly __how__ the brain processes data, but the one theory I run with in this post is the representational theory of mind.
+A brief aside on the representational theory of mind: There's so much more to say about exactly _how_ the brain processes data, but the one theory I run with in this post is the representational theory of mind.
 
 So, we've found two hard limits to concentrate on if we want to find where your lucid dream could "break":
 	1.
