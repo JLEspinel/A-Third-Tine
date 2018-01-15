@@ -36,7 +36,7 @@ Encounter 2 (~ 1 week ago): In Book 2 of Rationality: AI to Zombies, Yudkowski m
 
 > Unsurprisingly, the human brain doesn’t do 64-bit floating-point arithmetic, and it can’t devalue the emotional force of a pleasant anticipation by a factor of 0.00000001 without dropping the line of reasoning entirely.
 
-When read in context, it's found in a section that really has nothing to do with computational limits (it's an esssay on lotteries, of all things).
+When read in context, it's found in a section that really has nothing to do with computational limits (it's an esssay on lotteries, of all things). But it stuck with me.
 
 Encounter 3 (~ 2 days ago):
 
