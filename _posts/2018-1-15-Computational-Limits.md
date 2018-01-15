@@ -63,7 +63,3 @@ A brief aside on the representational theory of mind: There's so much more to sa
 
 So, we've found two hard limits to concentrate on if we want to find where your lucid dream could "break":
 	1. 
-
-
-
-We know, however, that dreams don't happen in real time. When you're 
