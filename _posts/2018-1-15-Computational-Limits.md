@@ -40,6 +40,8 @@ When read in context, it's found in a section that really has nothing to do with
 
 Encounter 3 (~ 2 days ago):
 
+So, looking back on this week I had this burning unresolved question about how far dreams can go that kept coming up in conversations. 
+
 
 
 We know, however, that dreams don't happen in real time. When you're 
