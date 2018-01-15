@@ -57,7 +57,7 @@ So, at the end of the week I was left with this burining, unanswered question ab
 
 > Turing computation is deterministic: total computational state determines subsequent computational state. One might instead allow stochastic computations. In a stochastic model, current state does not dictate a unique next state. Rather, there is a certain probability that the machine will transition from one state to another.
 
-So the mind is less like a Turing machine... and more like a modern computer. It has finite memory (read: limit #1, and that memory includes some RAM- or VRAM-esque component, we'll get to that division soon) and computations are executed in a nonzero amount of time (read: limit #2). There's simple physiological proof supporting that second limiation
+So the mind is less like a Turing machine... and more like a modern computer. It has finite memory (read: limit #1, and that memory includes some RAM- or VRAM-esque component, we'll get to that division soon) and computations are executed in a nonzero amount of time (read: limit #2).
 
 A brief aside on the representational theory of mind: There's so much more to say about exactly _how_ the brain processes data, but the one theory I run with in this post is the representational theory of mind.
 
