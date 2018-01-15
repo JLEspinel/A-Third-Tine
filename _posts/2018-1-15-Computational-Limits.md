@@ -1,26 +1,6 @@
 ---
 published: false
 ---
-Outline:
-
-- idea was convergent evolution from three sources:
-	1. Conversation with Lucas Rosen
-    2. Rationality: AI to Zombies, "Mind does not have floating point limitations"
-    3. Slate Star Codex, "DMT superhuman being test (mental moonmen can't factor large numbers)"
-- give Stanford definitions:
-	- break down the components of a Turing machine
-    1. block of memory
-    2. symbols can be stored in block of memory
-    3. computers are limited both by the speed of computations and by limited storage
-    	it takes a nonzero amount of time to recall a symbol from or assign it to a block of memory
-    
-- begs the question... what's the upper limit of human calculations, and is there a limit to the amount of informaiton the mind can store?
-
-- are there empirically determined or postulated limits?
-	- what's the history of these limits?
-    - who has talked about it? any cool anecdotes?
-    - where are they now?
-    
 https://plato.stanford.edu/entries/computational-mind/
 (Turing and Turing machines, "Universal Turing Machine UTM" that can replicate any other Turing machine)
 
@@ -28,19 +8,58 @@ Post:
 
 This post is dedicated to all you lucid dreamers.
 
-It's the covergent evolution of three recent encounters with one question: what are the computational limits of the human mind?
+It's the covergent evolution of three recent encounters with one question: what are the computational limits of the human brain?
 
-Encounter 1 (~ 3 days ago): I was talking about lucid dreaming with a friend (Lucas Rosen). More specifically, we were talking about the brain's remarkable ability to conjure up entire personalities and landscapes seemingly on command while we dream. 
-
-Encounter 2 (~ 1 week ago): In Book 2 of Rationality: AI to Zombies, Yudkowski makes the following statement:
+Encounter 1 (~ 1 week ago): I first started thinking about this while reading an entirely unrelated essay from Rationality: AI to Zombies. In Book 2, Yudkowski makes the following statement:
 
 > Unsurprisingly, the human brain doesn’t do 64-bit floating-point arithmetic, and it can’t devalue the emotional force of a pleasant anticipation by a factor of 0.00000001 without dropping the line of reasoning entirely.
 
-When read in context, it's found in a section that really has nothing to do with computational limits (it's an esssay on lotteries, of all things). But it stuck with me.
+When read in context, it's found in a section that really has nothing to do with computational limits (it's an esssay on lotteries, of all things). But my mind started to wander, and it stuck with me. If the brain doesn't do "64-bit floating point arithmetic"... then what __can__ it do?
 
-Encounter 3 (~ 2 days ago):
+And how fast can it do it (__it__ being some sort of basic, singular mental computation)?
 
-So, looking back on this week I had this burning unresolved question about how far dreams can go that kept coming up in conversations. 
+An interesting thought, but other things came up that day and I let it go.
+
+
+Encounter 2 (~ 3 days ago): These two questions were narrowed down a few days later. I was talking about lucid dreaming with a friend (Lucas Rosen). More specifically, we were talking about the brain's remarkable ability to conjure up entire personalities and landscapes seemingly on command while we dream. 
+
+Remembering the thought I had while reading Yudkowski, I stopping the marveling and sketched out the following scenario for Lucas:
+
+Imagine you're in a lucid dream.
+
+You're suspended 5,000 feet above an endless city, laid upon an endless plane (we'll say it's a flat-earth version of an ecumenopolis like Coruscant).
+
+Your only option is to fly forward, but you can vary the speed at which you do so.
+
+We assume that your dream runs in real-time, or if not, that at least mental computations occur at fixed intervals.
+
+If you started moving forward, ever accelerating, would you ever reach a point where your mind can't keep up computationally, and starts "lagging" or "dropping frames"?
+
+We were intrigued.
+
+Encounter 3 (~ 2 days ago): 
+
+Before I even had the chance to read into anything on the brain's computational limits I ran into the topic one final time, this time in an SSC post on DMT entities:
+
+> 	“Universal love,” said the cactus person.
+	“Transcendent joy,” said the big green bat.
+	“Right,” I said. “I’m absolutely in favor of both those things. But before we go any further,  		could you tell me the two prime factors of 1,522,605,027, 922,533,360, 535,618,378, 			132,637,429, 718,068,114, 961,380,688, 657,908,494 ,580,122,963, 258,952,897, 654,000,350, 		692,006,139?
+
+Check out the SSC post for context. What matters for this post is that it riled me up again. What __could__ we factor in a dream?
+
+So, at the end of the week I was left with this burining, unanswered question about how complex our dreams can get.
+
+And so I set about trying to amass enough literature on the subject that I might get a general idea of whether those limits exist, and if they do where the qualitative/quantitative boundaries lie.
+
+One strategy for making sense of the unknown is to relate it to a well-understood analogue. In the case of the brain, we can, as many have, relate it to a Turing machine (the stance known as the "computational theory of mind"). But this comparison has several shortcomings. 
+
+
+So the mind is less like a Turing machine... and more like a modern computer. It has finite memory (read: limit #1, and that memory includes some RAM- or VRAM-esque component, we'll get to that division soon) and computations are executed in a nonzero amount of time (read: limit #2). There's simple physiological proof supporting that second limiation
+
+A brief aside on the representational theory of mind: There's so much more to say about exacltly __how__ the brain processes data, but the one theory I run with in this post is the representational theory of mind.
+
+So, we've found two hard limits to concentrate on if we want to find where your lucid dream could "break":
+	1. 
 
 
 
