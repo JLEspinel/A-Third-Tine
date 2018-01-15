@@ -23,3 +23,23 @@ Outline:
     
 https://plato.stanford.edu/entries/computational-mind/
 (Turing and Turing machines, "Universal Turing Machine UTM" that can replicate any other Turing machine)
+
+Post:
+
+This post is dedicated to all you lucid dreamers.
+
+It's the covergent evolution of three recent encounters with one question: what are the computational limits of the human mind?
+
+Encounter 1 (~ 3 days ago): I was talking about lucid dreaming with a friend (Lucas Rosen). More specifically, we were talking about the brain's remarkable ability to conjure up entire personalities and landscapes seemingly on command while we dream. 
+
+Encounter 2 (~ 1 week ago): In Book 2 of Rationality: AI to Zombies, Yudkowski makes the following statement:
+
+> Unsurprisingly, the human brain doesn’t do 64-bit floating-point arithmetic, and it can’t devalue the emotional force of a pleasant anticipation by a factor of 0.00000001 without dropping the line of reasoning entirely.
+
+When read in context, it's found in a section that really has nothing to do with computational limits (it's an esssay on lotteries, of all things).
+
+Encounter 3 (~ 2 days ago):
+
+
+
+We know, however, that dreams don't happen in real time. When you're 
