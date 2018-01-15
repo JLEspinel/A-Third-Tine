@@ -37,7 +37,7 @@ We were intrigued.
 
 ## Encounter 3:
 
-Before I even had the chance to read into anything on the brain's computational limits I ran into the topic one final time, this time in an SSC post on DMT entities:
+Before I even had the chance to read into anything on the brain's computational limits I ran into the topic one final time, this time in [an SSC post on DMT entities](http://slatestarcodex.com/2015/04/21/universal-love-said-the-cactus-person/):
 
 > “Universal love,” said the cactus person.
 “Transcendent joy,” said the big green bat.
