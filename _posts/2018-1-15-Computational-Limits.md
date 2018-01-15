@@ -59,7 +59,15 @@ So, at the end of the week I was left with this burining, unanswered question ab
 
 So the mind is less like a Turing machine... and more like a modern computer. It has finite memory (read: limit #1, and that memory includes some RAM- or VRAM-esque component, we'll get to that division soon) and computations are executed in a nonzero amount of time (read: limit #2).
 
+Nice. That gives us two distinct boundaries:
+
+	1. Memory
+    2. Read/write speed
+
+
+    
+
+
 A brief aside on the representational theory of mind: There's so much more to say about exactly _how_ the brain processes data, but the one theory I run with in this post is the representational theory of mind.
 
-So, we've found two hard limits to concentrate on if we want to find where your lucid dream could "break":
-	1.
+
