@@ -12,6 +12,7 @@ Outline:
     1. block of memory
     2. symbols can be stored in block of memory
     3. computers are limited both by the speed of computations and by limited storage
+    	it takes a nonzero amount of time to recall a symbol from or assign it to a block of memory
     
 - begs the question... what's the upper limit of human calculations, and is there a limit to the amount of informaiton the mind can store?
 
