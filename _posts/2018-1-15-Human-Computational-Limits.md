@@ -74,6 +74,6 @@ Fear not, though - you didn't _entirely_ waste your time reading this. I did man
 
 [This claim from 2009](https://www.technologyreview.com/s/415041/new-measure-of-human-brain-processing-speed/) seemed to indicate that based on an average of a particular reaction time study, the experimental upper bound was somewhere around 60 bits per second.
 
-![temporal.png]({{site.baseurl}}/_posts/temporal.png)
+![temporal.png]({{site.baseurl}}/_images/temporal.png)
 
 Yes, I'm obviously wary of saying this is anywhere near a conclusive answer. For starters, it comes from a single paper. Additionally, its author agrees with what you might regard a common-sense objection: it seems irrational to believe that the brain assigns equal importance to all tasks. Change the experimental parameters and have subjects sleep, and you might suddenly see an entirely different speed based on the diminished or heightened importance of the mental state.
