@@ -67,6 +67,8 @@ Okay. With those definitions out of the way, we're left with two distinct bounda
 ## 1. 
 In the context of lucid dreams, this means that exceeding some arbitrary memory limit "breaks" the dream. Here I consider a "break" to be a failure to continue the same unhindered rendering of an image at a sustained pace. But there's an immediate and glaring issue here: how does the brain process data? Is there a universal, mental language for ideas, for commands, for images? There may be some kind of language for thoughts according to the representative theory of mind, but in my short time researching this question I've yet to find a working estimate for the size of a mental word, image, or concept. I do assume that different mental operations also differ in cost; it's likely more taxing for the brain to produce a detailed map of a city than to think of a single word. Sadly I think this kills any illusion of satisfactorily resolving the size of our memorial dream budget, but at least we know that theoretically, dreams certainly can "break", and that trying to render too much, too fast can be a culprit.
 
+Another concern is that memory probably varies per person. And when you consider that memory might be dynamically allocated... well that just complicates any sort of estimate even further.
+
 ## 2.
 Fear not, though - you didn't _entirely_ waste your time reading this. I did manage to find an estimate for the brain's read/write speed (I also never promised to answer the question, I just said I was interested in reading into it). 
 
