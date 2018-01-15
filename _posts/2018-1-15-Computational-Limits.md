@@ -45,7 +45,7 @@ So, at the end of the week I was left with this burining, unanswered question ab
 
 And so I set about trying to amass enough literature on the subject that I might get a general idea of whether those limits exist, and if they do where the qualitative/quantitative boundaries lie.
 
-One strategy for making sense of the unknown is to relate it to a well-understood analogue. In the case of the brain, we can, as many have, relate it to a Turing machine (the stance known as the "computational theory of mind"). But this comparison has several shortcomings. 
+One strategy for making sense of the unknown is to relate it to a well-understood analogue. In the case of the brain, we can, as many have, relate it to a Turing machine (the stance known as the "classical computational theory of mind"). But this comparison has several shortcomings. Stanford's Encyclopedia of Philosophy lays them out rather clearly:
 
 > Turing machines execute pure symbolic computation. The inputs and outputs are symbols inscribed in memory locations. In contrast, the mind receives sensory input (e.g., retinal stimulations) and produces motor output (e.g., muscle activations). A complete theory must describe how mental computation interfaces with sensory inputs and motor outputs.
 
@@ -56,7 +56,6 @@ One strategy for making sense of the unknown is to relate it to a well-understoo
 > A Turing machine has a central processor that operates serially, executing one instruction at a time. Other computational formalisms relax this assumption, allowing multiple processing units that operate in parallel. Classical computationalists can allow parallel computations (Fodor and Pylyshyn 1988; Gallistel and King 2009: 174). See Gandy (1980) and Sieg (2009) for general mathematical treatments that encompass both serial and parallel computation.
 
 > Turing computation is deterministic: total computational state determines subsequent computational state. One might instead allow stochastic computations. In a stochastic model, current state does not dictate a unique next state. Rather, there is a certain probability that the machine will transition from one state to another.
-
 
 So the mind is less like a Turing machine... and more like a modern computer. It has finite memory (read: limit #1, and that memory includes some RAM- or VRAM-esque component, we'll get to that division soon) and computations are executed in a nonzero amount of time (read: limit #2). There's simple physiological proof supporting that second limiation
 
