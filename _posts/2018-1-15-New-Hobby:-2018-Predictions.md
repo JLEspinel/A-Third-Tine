@@ -19,3 +19,9 @@ What event did _I_ botch? Back in high school I spent a good three months blindl
 So I was wrong.
 
 Looking back on it last year I wondered if I could somehow improve my long run forecasting abilities and redeem myself. 
+
+Enter SSC.
+
+I saw the 2017 calibration results and I was immediately hooked on the idea of trying my hand at the same exercise.
+
+What follows is a list of predictions for prominent outcomes in 2018 at varying degrees of certainty:
