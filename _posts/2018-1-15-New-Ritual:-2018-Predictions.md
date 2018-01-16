@@ -36,15 +36,15 @@ What follows is our list of some possible outcomes in 2018, arranged by my varyi
 -
 
 ## 75%
--
+- The number of combat troops stationed in Afghanistan at the end of 2018 will be greater than at the end of 2017.
 -
 -
 -
 -
 
 ## 90%
--
--
+- The United States will avoid military action against North Korea.
+- 
 -
 -
 -
