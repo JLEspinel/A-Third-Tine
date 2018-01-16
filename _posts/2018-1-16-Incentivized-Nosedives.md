@@ -28,8 +28,12 @@ In a competitve market, where you have a single tier of labor and companies valu
 
 Simple enough. You like your wage, you join the company. Now let's move this example to the real world. As we know, the economies don't exist as isolated system. China's labor market, for example, is - for the most part - open to multinationals based out of the United States and vice versa. If you're an American company, you're suddenly faced with not one, but _two_ supply curves. And this creates a lowest-bidder's game played by regulators on both sides of the world: deregulation, for example, lessening the frequency of safety inspections at coal mines, can lower the price of a country's coal miner, and in turn coal mining companies (or customers that use coal as an intermediate product) benefit from a boons in margins and demand. Cue a "race to the bottom".
 
-But we know that in general equilibrium the race has a finish line; or at least a place where one of the runners breaks an ankle and stalls. If other markets are available, 
+But we know that in general equilibrium the race has a finish line; or at least a place where one of the runners breaks an ankle and stalls. If other markets are available, workers can (in theory) jump ship to an industry with bigger wages. There are obvious practical limits. You can't work a coal miner or whoever into the dirt. It kills productivity for the individual and also trashes collective morale.
 
-It also isn't great (or sustainable) for populations to remain confined to hopelessly penniless lives of coerced labor and artificially depressed wages. Politically an unwise move. Things like that start rebellions, you know.
+SSC had an excellent anecdote about the inefficiency of American slavery that illustrates my point:
 
-Going back to the 
+
+
+Politically it also isn't great (or sustainable) for populations to remain confined to hopelessly penniless lives of coerced labor and artificially depressed wages. Politically an unwise move. Things like that start rebellions, you know.
+
+
