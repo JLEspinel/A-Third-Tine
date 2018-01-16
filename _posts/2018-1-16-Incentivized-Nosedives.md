@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Space. Taxes. Politics. Am I reviewing the prequels? No. This is the story of an effect far more important than mass fan disappointment: reguatory races to the bottom.
 
