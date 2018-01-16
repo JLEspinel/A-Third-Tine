@@ -1,7 +1,7 @@
 ---
 published: false
 ---
-Space. Taxes. Politics. Am I reviewing the prequels? No. This is the story of an effect far more powerful than mass fan disappointment: reguatory races to the bottom.
+Space. Taxes. Politics. Am I reviewing the prequels? No. This is the story of an effect far more important than mass fan disappointment: reguatory races to the bottom.
 
 Introductory game theory provides a good base to begin thinking about these sorts of scenarios. In the oligopolistic model of Bertrand competition, rival agents compete to sell substitutable products by decreasing prices to undercut their rivals. 
 
