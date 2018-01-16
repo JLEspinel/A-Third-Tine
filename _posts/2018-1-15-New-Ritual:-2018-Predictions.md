@@ -29,21 +29,21 @@ The only barrier was I'm no polymath (unlike Lucas), so I recruited a polymath (
 What follows is our list of some possible outcomes in 2018, arranged by my varying degrees of certainty:
 
 ## 50%
-- 
+- SpaceX's first falcon heavy launch successfully reaches orbit (no RUD).
 -
 -
 -
 -
 
 ## 75%
-- The number of combat troops stationed in Afghanistan at the end of 2018 will be greater than at the end of 2017.
--
--
+- The number of combat troops stationed in Afghanistan at the end of 2018 is greater than at the end of 2017.
+- Hamas does not execute a "third intifada" in the West Bank.
+- 
 -
 -
 
 ## 90%
-- The United States will avoid military action against North Korea.
+- The United States avoids military action against North Korea.
 - 
 -
 -
@@ -57,7 +57,7 @@ What follows is our list of some possible outcomes in 2018, arranged by my varyi
 -
 
 ## 99%
--
+- SpaceX's Falcon Heavy embarks on its maiden flight.
 -
 -
 -
