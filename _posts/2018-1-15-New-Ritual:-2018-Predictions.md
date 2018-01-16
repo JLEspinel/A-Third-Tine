@@ -37,7 +37,7 @@ What follows is our list of some possible outcomes in 2018, arranged by my varyi
 
 ## 75%
 - The number of combat troops stationed in Afghanistan at the end of 2018 is greater than at the end of 2017.
-- Hamas does not execute a "third intifada" in the West Bank.
+- Hamas does not execute a "third intifada" in Gaza.
 - 
 -
 -
