@@ -59,8 +59,8 @@ What follows is our list of some possible outcomes in 2018, arranged by my varyi
 ## 99%
 - SpaceX's Falcon Heavy embarks on its maiden flight.
 - Apple's market cap exceeds 1 trillion USD.
+- 
 -
--
--
+- Half-Life 3 is not released.
 
 We'll check back on these in 2019.
