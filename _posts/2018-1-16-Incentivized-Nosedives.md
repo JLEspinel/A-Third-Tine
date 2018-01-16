@@ -46,4 +46,8 @@ But we know that in general equilibrium the race has a finish line; or at least 
 
 Politically it also isn't great (or sustainable) for populations to remain confined to hopelessly penniless lives of coerced labor and artificially depressed wages. Politically an unwise move. Things like that start rebellions, you know.
 
+So there's a floor to deregulation, and it's somewhere around the point where it _significantly_ destabilizes national interests - a point where the cost of removing protections outweighs expected economic gain.
+
+For asteroid mining I think that point is a threat to the security of some powerful cabalistic group's orbital assets. That may be the NRO. Or the U.S. Air Force. Or a consortium of nations or multinationals. The bigger the threat (like an irreversible orbital collision cascade) the more agents will be affected and push for regulation - or for satellites to be shot down. At that point Luxembourg or others will have to contend with the risk of being branded "sponsor non grata" both by the self-interested collective of threatened agents, and by the companies or individuals producing the threats, which will at some point be abandoned by their sponsoring nation(s).
+
 
