@@ -10,3 +10,4 @@ _Image from [Wikipedia](https://www.google.co.il/url?sa=i&rct=j&q=&esrc=s&source
 
 The game ends when the firms hit their marginal cost - at which point the firm with less overhead wins out and captures the whole market. Victory goes to the cheapskate - but in many cases it's pyrrhic. [Gaining efficiency can compromise reliability](https://timeline.com/spacex-musk-rocket-failures-c22975218fbe).
 
+Price-based competition doesn't just blow up rockets. I've found a whole host of situations, mainly in politics but with tendrils deep in several different fields, where attempts to be the "cheapest" option on the market has negative consequences as serious as they might be unintentional. In political spheres the oligopolistic, price-incentivized nosedive has a name: "race to the bottom". In this article I cover a few examples and offer a possible solution derived from basic economic theory.
