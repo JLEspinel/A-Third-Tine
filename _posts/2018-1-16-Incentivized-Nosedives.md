@@ -44,7 +44,7 @@ But we know that in general equilibrium the race has a finish line; or at least 
 > So in this case, a race to the bottom where competing plantations become crueler and crueler to their slaves in order to maximize competitiveness is halted by the physical limitation of cruelty not helping after a certain point.
 
 
-Politically it also isn't great (or sustainable) for populations to remain confined to hopelessly penniless lives of coerced labor and artificially depressed wages. Politically an unwise move. Things like that start rebellions, you know.
+Politically it also isn't great (or sustainable) for populations to remain confined to hopelessly penniless lives of coerced labor and artificially depressed wages. Politically an unwise move. [Things like that start rebellions, you know](https://en.wikipedia.org/wiki/October_Revolution).
 
 So there's a floor to deregulation, and it's somewhere around the point where it _significantly_ destabilizes national interests - a point where the cost of removing protections outweighs expected economic gain.
 
