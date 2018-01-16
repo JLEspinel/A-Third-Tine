@@ -30,7 +30,7 @@ What follows is our list of some possible outcomes in 2018, arranged by my varyi
 
 ## 50%
 - SpaceX's first falcon heavy launch successfully reaches orbit (no RUD).
--
+- 
 -
 -
 -
@@ -58,7 +58,7 @@ What follows is our list of some possible outcomes in 2018, arranged by my varyi
 
 ## 99%
 - SpaceX's Falcon Heavy embarks on its maiden flight.
--
+- Apple's market cap exceeds 1 trillion USD.
 -
 -
 -
