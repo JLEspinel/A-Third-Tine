@@ -24,4 +24,6 @@ The same effect occurs with workers' wages [in the developing world](https://www
 
 ![labor graph]({{site.baseurl}}/images/labor.gif)
 
-In a competitve market, where you have a single tier of labor and companies value each unit of that tier equally, a firm
+In a competitve market, where you have a single tier of labor and companies value each unit of that tier equally, the price of labor determines how many units the firm can afford, and how many laborers will willingly join the firm at the set wage.
+
+Simple enough. You like your wage, you join the company. Now let's move this example to the real world. As we know, the economies don't exist as isolated system. China's labor market, for example, is - for the most part - open to multinationals based out of the United States and vice versa. If you're an American company, you're suddenly faced with not one, but _two_ supply curves. And this creates a lowest-bidder's game played by regulators on both sides of the world: deregulation, for example, lessening the frequency of safety inspections at coal mines, can lower the price of a country's coal miner, and in turn companies benefit from a boons in margins and demand.
