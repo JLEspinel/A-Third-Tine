@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 ---
 Space. Taxes. Politics. Am I reviewing the prequels? No. This is the story of an effect far more important than mass fan disappointment: reguatory races to the bottom.
 
@@ -19,7 +19,7 @@ Hurrah for the United States. Italy issued a public "hurrah" at the United Natio
 
 Luxembourg played the next move in the regulatory game. They goaded international asteroid mining companies with the promise of less security screening for their missions, which was basically a lower cost than what the U.S. could provide. Doing any sort of operations in space through the U.S. is notoriously difficult, thanks to rigorous checks conducted by intelligence and military agencies. Placing cameras and other neutral vessels in space consitutues a national security threat if you can't ascertain the inentions of thier operators. So U.S. agencies are rightly rigorous. And the international community at large also isn't too keen on opening the floodgates to unchecked activity in space. It seems, then, that we're stuck in the downward spiral. Marginal cost is nowhere in sight but concievably it does exisit.
 
-## 2.
+## 2. Imbalanced Labor
 The same effect occurs with workers' wages [in the developing world](https://www.sciencedirect.com/science/article/pii/S0185166717300115). I want to go back to economic theory for this example. Let's take a look at the comeptitive market for labor.
 
 ![labor graph]({{site.baseurl}}/images/labor.gif)
