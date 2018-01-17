@@ -1,9 +1,7 @@
 ---
 published: true
 ---
-This post is dedicated to all you lucid dreamers.
-
-It's the convergent evolution of three recent encounters with one question: what are the computational limits of the human brain?
+This post is dedicated to all you lucid dreamers. It's the convergent evolution of three recent encounters with one question: what are the computational limits of the human brain?
 
 ## Encounter 1:
 
