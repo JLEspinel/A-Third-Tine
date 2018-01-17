@@ -28,4 +28,4 @@ And yet for most of history (including the present day) the one dominates the wa
 
 I'm very guilty of thinking poorly, too. But I've found that when I surround myself with good books and good people (don't do either/or - best to do both) I default to a more rational path. So here's my offer to you: check out this website every once in a while, and I'll promise to share something interesting that I think is worth reading and discussing with your friends.
 
-Read a lot, write a little is the guiding principle behind this blog. If well executed, each post should boil down one or several interesting reads I've recently wandered into. If very well executed, each post should also be enjoyable - to the point you'll share it. Long shot, I know, but here's to a year of risks.
+Read a lot, write a little is the guiding principle behind each article. If well executed, each post should boil down one or several interesting reads I've recently wandered into. If very well executed, each post should also be enjoyable - to the point you'll share it. Long shot, I know, but here's to a year of risks.
