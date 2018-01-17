@@ -1,9 +1,9 @@
 ---
 published: true
 ---
-I propose a toast to Lucas Szwarcberg, Dan Brickell, and [Scott Alexander](www.slatestarcodex.com) for inspring this site. Men undoubtedly cut from the same cloth.
+I propose a toast to Lucas Szwarcberg, Dan Brickell, and [Scott Alexander](www.slatestarcodex.com) for inspring this site.
 
-It took a month of living with Lucas and Dan in Tel Aviv and listening to them ascerbicly prodding each other with dry, hyper-rational wit to make me assume two stances (I'm hesistant to call them "truths" for fear of contributing to part of the problem): 
+It took a month of living with Lucas and Dan in Tel Aviv to realize that I generally shared their ratonalist tendencies (although comparatively I knew nothing on the subject). After a fair amount of reading and introspection, I decided to assume the following two stances (I'm hesistant to call them "truths" for fear of contributing to part of the problem), which over time motivated me to start this blog: 
 
 **1. The world needs better stories.**
 If you were to set your internet browser's home page to, say, BBC news, you might see headlines like these on a daily basis:
@@ -22,6 +22,10 @@ Another fun (and possibly controversial) point: shouldn't we also care _who_ wri
 
 **2. More stories should be studied wholly and rationally, rather than in dogmatically congruent parts as is now in vogue.**
 
-No big explanation here.
+Yudkowski's "unenlightened one" is a curious person. The one is bound by heuristic shackles; vulnerable to cultism; the least likely to approach an objective study by exhaustively analyzing the merits of all an idea's parts, rather than the convenience of the whole.
+
+And yet for most of history (including the present day) the one dominates the way many at large process the world around them. Not surprisingly, most of the stories we read end up being exercises in lazy thinking.
+
+I'm very guilty of thinking poorly, too. But I've found that when I surround myself with good books and good people (don't do either/or - best to do both) I default to a more rational path. So here's my offer to you: check out this website every once in a while, and I'll promise to share something interesting that I think is worth reading and discussing with your friends.
 
 Read a lot, write a little is the guiding principle behind this blog. If well executed, each post should boil down one or several interesting reads I've recently wandered into. If very well executed, each post should also be enjoyable - to the point you'll share it. Long shot, I know, but here's to a year of risks.
