@@ -6,7 +6,7 @@ Space. Taxes. Politics. Am I reviewing the prequels? No. This is the story of an
 Introductory game theory provides a good base to begin thinking about these sorts of scenarios. In the oligopolistic model of Bertrand competition, rival agents compete to sell substitutable products by decreasing prices to undercut their rivals. 
 
 ![graph]({{site.baseurl}}/images/s.png)
-_Image from [Wikipedia](https://www.google.co.il/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwj819-Or9zYAhWKYlAKHShFCwAQjRwIBw&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FBertrand_competition&psig=AOvVaw2Fehb01iu68LElQk1CryNo&ust=1516188142118005)_
+
 
 The game ends when the firms hit their marginal cost - at which point the firm with less overhead wins out and captures the whole market. Victory goes to the cheapskate - but in many cases it's pyrrhic. [Gaining efficiency can compromise reliability](https://timeline.com/spacex-musk-rocket-failures-c22975218fbe).
 
