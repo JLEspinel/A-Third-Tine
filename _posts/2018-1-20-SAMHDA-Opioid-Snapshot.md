@@ -8,6 +8,4 @@ Brief background on the U.S. opioid epidemic:
 	- Estimated $500MM economic loss in 2015 alone
     - 
 
-
-
-It's a serious public health issue.
+We fired up some clusters, uploaded the dataset, and saw this:
