@@ -5,7 +5,7 @@ Musiolik et. al. developed an intriguing solution in order to simulate Martian c
 
 NOTE: Saltation is this funny skipping motion that small grains exhibit when you strike them with enough air or solid particles.
 
-![]
+![wind_transport-min-600x427.jpg]({{site.baseurl}}/_posts/wind_transport-min-600x427.jpg)
 Image credit: [revision.co](https://www.revision.co.zw/wind-action-in-deserts-wind-transport-and-deposition/)
 
 Somewhat akin to deserts on Earth, the Martian surface is covered in regolith comprised of sand and fine dust particles. On Earth, the influence of gravity and wind on soil transport is well understood, but the properties that govern those interactions break down when you look elsewhere in the solar system. Surface gravity differs among celestial bodies, and so do atmospheres: Earth's atmospheric composition and size varies from that of Venus or Mars. Studies have shown interaction between the the Martian surface and atmosphere ([Gale Crater has seen dust devils](https://www.nasa.gov/image-feature/jpl/pia21270/martian-dust-devil-action-in-gale-crater-sol-1597)), but atmospheric and gravitational inconsistencies complicate replicating such interactions back on Earth in a laboratory setting.
