@@ -7,7 +7,7 @@ Somewhat akin to deserts on Earth, the Martian surface is covered in regolith co
 
 Instead of using low-density materials to simulate 0.38g Martian gravity and its thin atmosphere, the team built a test chamber. Part wind tunnel, part centrifuge, it housed a Mars soil simulant (JSC 1A) and could rotate fast enough to mimic the force of Martian gravity while in a microgravity environment. 
 
-![test_chamber]({{site.baseurl}}/_images/chamber.png)
+![test_chamber]({{site.baseurl}}/images/chamber.png)
 
 Creating the microgravity environment involved another step: mounting the test chamber on a parabolic flight. For bouts of roughly 22 seconds, the flight replicated microgravity, which gave the test chamber roughly 20 seconds to begin rotating and pass a simulated Martian atmosphere over a dust bed.
 
