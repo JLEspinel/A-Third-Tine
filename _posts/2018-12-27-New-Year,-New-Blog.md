@@ -2,7 +2,6 @@
 published: true
 ---
 **IT LIVES: this blog is back from the dead!**
-
 Why now? Mainly thanks to three developments:
 1. I got a job.
 2. After kicking off this blog I switched to writing poetry and fell in love with it. That love has since petered out and I'm ready to write longer pieces again. Sorry Jason. If you do like poetry, I might cross-post or link some pieces published elsewhere earlier this year.
