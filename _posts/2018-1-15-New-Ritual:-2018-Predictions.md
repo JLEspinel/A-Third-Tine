@@ -88,4 +88,4 @@ So it's finally 2019, and it's time to see how I did.
 - [x] Apple's market cap exceeds 1 trillion USD.
 - [x] Half-Life 3 is not released.
 
-I'll post my 2020 calibration predicitons soon. It will be a longer list.
+I'll post my 2020 calibration predicitons soon. There will be more events this time.
