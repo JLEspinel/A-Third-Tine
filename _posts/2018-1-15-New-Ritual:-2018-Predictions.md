@@ -94,7 +94,7 @@ So it's finally 2019, and it's time to see how I did.
 -
 
 ## 90% (100%: 1/1)
-- [x]The United States avoids military action against North Korea.
+- [x] The United States avoids military action against North Korea.
 - 
 -
 -
