@@ -80,21 +80,21 @@ We'll check back on these in 2019.
 So it's finally 2019, and it's time to see how I did.
 
 ## 50% (100%: 1/1)
-- SpaceX's first falcon heavy launch successfully reaches orbit (no RUD). [x]
+- [x] SpaceX's first falcon heavy launch successfully reaches orbit (no RUD). 
 - 
 -
 -
 -
 
 ## 75% (50%: 1/2)
-- The number of combat troops stationed in Afghanistan at the end of 2018 is greater than at the end of 2017.
-- Hamas does not execute a "third intifada" in Gaza. [x]
+- [ ] The number of combat troops stationed in Afghanistan at the end of 2018 is greater than at the end of 2017.
+- [x] Hamas does not execute a "third intifada" in Gaza.
 - 
 -
 -
 
 ## 90% (100%: 1/1)
-- The United States avoids military action against North Korea. [x]
+- [x]The United States avoids military action against North Korea.
 - 
 -
 -
@@ -108,8 +108,8 @@ So it's finally 2019, and it's time to see how I did.
 -
 
 ## 99% (100%: 3/3)
-- SpaceX's Falcon Heavy embarks on its maiden flight. [x]
-- Apple's market cap exceeds 1 trillion USD. [x]
+- [x] SpaceX's Falcon Heavy embarks on its maiden flight.
+- [x] Apple's market cap exceeds 1 trillion USD.
 - 
 -
-- Half-Life 3 is not released. [x]
+- [x] Half-Life 3 is not released.
