@@ -9,7 +9,7 @@ Why now? Mainly thanks to three developments:
 
 **NEW YEAR'S RESOLUTIONS: A CLEARER PURPOSE, REGULAR POSTS, AND TINKERING WITH FORMATS**
 
-Here's the deal. I reread the published and unpublished (yes, I had about a half-dozen unfinished pieces dating back to February and March) posts from earlier this year, and eventually I made my way back to my first post.
+Here's the deal. I reread the published and unpublished (yes, I had about a half-dozen unfinished pieces dating back to February and March) posts from earlier this year, and eventually I made my way back to [my first post](http://athirdtine.com/First-Post/).
 
 I didn't like it. Okay - this is somewhat innacurate. I didn't think it correctly or clearly expressed why I made this blog or what it's meant to be. So here, in no uncertain terms, let me spell out a vision for ATT in 2019: A unique voice.
 
