@@ -1,7 +1,7 @@
 ---
 published: false
 ---
-Another old post. It's a fun one and I felt it was relevant given New Years is only a few days out, so here it is. These were my predictions for 2018 back in December 2017. Unfortunately, I'm posting a shorter version than what I origninally envisioned since... well... the exercise is a bit compromise if I now decide to make predictions for 2018 - for a year that already happened. 
+Another old post. It's a fun one and I felt it was relevant given New Years is only a few days out, so here it is. These were my predictions for 2018 back in December 2017. Unfortunately, I'm posting a shorter version than what I origninally envisioned since... well... the exercise is a bit compromised if I now decide to make predictions for 2018 - for a year that already happened. 
 
 A quick FAQ before we get started:
 
