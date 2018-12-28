@@ -16,7 +16,7 @@ Is it _shamelessly_ and _exclusively_ inspired by SSC?
 
 Nah.
 
-I have a genuine claim to being inspired by one of my very own god-awful, ill-informed, and overly-ignorant predictions.
+While the format derives from SSC's Calibrations, I have a genuine claim to being inspired by one of my very own god-awful, ill-informed, and overly-ignorant predictions.
 
 Sure, we all have those moments. You probably thought the Cubs might lose in 2016. Or that the eleciton would go a different way.
 
