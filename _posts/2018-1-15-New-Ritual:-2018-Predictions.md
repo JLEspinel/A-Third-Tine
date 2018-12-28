@@ -1,7 +1,7 @@
 ---
 published: false
 ---
-Another old post. It's a fun one and I felt it was relevant given New Years is only a few days out. These were my predictions for 2018 back in December 2017. Unfortunately, I'm posting a shorter version than what I origninally envisioned since... well... there is a bit of bias if I now decide to make predictions for 2018 - for a year that already happened. 
+Another old post. It's a fun one and I felt it was relevant given New Years is only a few days out. These were my predictions for 2018 back in December 2017. Unfortunately, I'm posting a shorter version than what I origninally envisioned since... well... the exercise is a bit compromise if I now decide to make predictions for 2018 - for a year that already happened. 
 
 A quick FAQ before we get started:
 
@@ -12,6 +12,9 @@ A quick FAQ before we get started:
 
 **Q:** Is this inspired by SSC?
 **A:** You caught me. Yes.
+
+***
+
 Is it _shamelessly_ and _exclusively_ inspired by SSC?
 
 Nah.
@@ -20,7 +23,7 @@ While the format derives from SSC's Calibrations, I have a genuine claim to bein
 
 Sure, we all have those moments. You probably thought the Cubs might lose in 2016. Or that the eleciton would go a different way.
 
-What event did _I_ botch? Back in high school I spent a good three months blindly prophesizing an immenent double-dip in the Great Recession at the start of my 9AM Intro to Business class. Whew. I think I listened to a single podcast where some Modern Quantitative Oracle was reading tea leaves or something and I believed his apocalyptic interpretation of a few sprigs of Earl Grey.
+What event did _I_ botch? Back in high school I spent a good three months blindly prophesizing an immenent double-dip in the Great Recession at the start of my 9AM Intro to Business class. Nice. I think I listened to a single podcast where some Modern Quantitative Oracle was reading tea leaves or something and I believed his apocalyptic interpretation of a few sprigs of Earl Grey.
 
 So I was wrong.
 
@@ -30,7 +33,7 @@ Enter SSC.
 
 I saw the 2017 calibration results and I was immediately hooked on the idea of trying my hand at the same exercise.
 
-The only barrier was I'm no polymath (unlike Lucas), so I recruited a polymath (Lucas) to help me write a comprehensive list of events spanning a variety of disciplines.
+The only barrier was I'm no polymath (unlike Lucas), so I recruited a polymath (Lucas) to help me write a comprehensive list of events spanning a variety of disciplines*.
 
 What follows is our list of some possible outcomes in 2018, arranged by my varying degrees of certainty:
 
@@ -70,3 +73,8 @@ What follows is our list of some possible outcomes in 2018, arranged by my varyi
 - Half-Life 3 is not released.
 
 We'll check back on these in 2019.
+
+*As you can tell, we made a shorter-than-desirable list and then got back to work on our visualization projects.
+***
+
+So it's finally 2019, and it's time to see how I did.
