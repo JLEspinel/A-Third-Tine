@@ -1,6 +1,8 @@
 ---
 published: true
 ---
+This is a cross-post from my astrophysics blog covering a piece of hardware I found interesting (I didn't build it). Not much commentary from me here, more of a brief summary for your convenience.
+
 [Musiolik et. al.](https://arxiv.org/abs/1801.08787) developed an intriguing solution in order to simulate Martian conditions and study their effect on saltation. It caught my eye as an engineering feat, and so I felt compelled to share it here on the blog. What follows is a very brief summary of the experiment and its results.
 
 NOTE: Saltation is this funny skipping motion that small grains exhibit when you strike them with enough air or solid particles.
