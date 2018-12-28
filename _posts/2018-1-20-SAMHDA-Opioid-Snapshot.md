@@ -1,7 +1,7 @@
 ---
 published: false
 ---
-Here's one of those old posts I needed to share. Dan, Lucas, and I collaborated on a data visualization project back in January. Here are the results.
+Here's one of those old posts I'd been sitting on for a while. Dan, Lucas, and I collaborated on a data visualization project back in January. Here are the results.
 
 Brief background on the U.S. opioid epidemic:
 
