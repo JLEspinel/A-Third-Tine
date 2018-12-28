@@ -87,3 +87,5 @@ So it's finally 2019, and it's time to see how I did.
 - [x] SpaceX's Falcon Heavy embarks on its maiden flight.
 - [x] Apple's market cap exceeds 1 trillion USD.
 - [x] Half-Life 3 is not released.
+
+I'll post my 2020 calibration predicitons soon. It will be a longer list.
