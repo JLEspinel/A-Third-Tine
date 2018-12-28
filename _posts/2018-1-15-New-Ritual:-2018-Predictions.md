@@ -1,10 +1,15 @@
 ---
 published: false
 ---
+Another old post. It's a fun one. These were my predictions for 2018 back in December 2017. Unfortunately, I'm posting a shorter version than what I origninally envisioned since... well... there is a bit of bias if I now decide to make predictions for 2018 - for a year that already happened. 
 
-Is this inspired by SSC?
+A quick FAQ before we get started.
 
-You caught me. Yes.
+**Q:** Do I have a way of proving that I wrote this back in 2018? 
+**A:** Not exactly. A few people saw me writing this back in December, so I guess I could ask them to vouch for me. But other than that, I don't have much evidence to back me up. So believe at your own risk.
+
+**Q:** Is this inspired by SSC?
+**A:** You caught me. Yes.
 
 Is it _shamelessly_ and _exclusively_ inspired by SSC?
 
